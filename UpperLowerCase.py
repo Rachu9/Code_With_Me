@@ -14,3 +14,7 @@ def uplo(inp):
     return a
 inp=input("Enter a String")
 print(uplo(inp))
+
+
+'''Input:Hello
+   Output:hello'''
